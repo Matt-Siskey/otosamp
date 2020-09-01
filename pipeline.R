@@ -376,7 +376,7 @@ for(sp in 1:length(species)){
       # If sex unknown and there is specimen data then use all specimen data
       if(sx==3)
         specimen_sp_y_sx<-specimen_sp_y
-      
+
       # If there is no sizecomp data, we are wasting our time
       if(sex[sx] == 1 & sum(sizepop_sp_y$MALES)==0) {
         cat(paste("No sizecomp data for sex", sx, "\n"))
