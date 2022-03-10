@@ -7,4 +7,4 @@ Cost Analysis: Code for cost analysis relating FTE salary & ageing time to numbe
 
 Seeds: Creates seed lists for bootstrap estimator sampling.
 
-Functions: Some function calls included here are for writing assessment model files, which I can not share publically.
+Functions: Function for calling seeding and model file writers
