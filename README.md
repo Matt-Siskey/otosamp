@@ -1,4 +1,4 @@
-# otosamp
+# Otolith Sampler
 bootstrap_estimator_agecomp: Code for grabbing RACEBase data, running bootstrap estimator on age data, calculating input sample sizes & age comps, feeding replicated data products to assessment models, running those models & saving outputs
 
 bootstrap_estimator_output: Code for processig output from bootstrap estimator (number of otoliths, number of tows recorded across sampling rate scenarios) and processing output from stock assessment model runs.
